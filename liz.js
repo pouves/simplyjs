@@ -19,7 +19,7 @@ simply.on('accelTap', function(e) {
 });
 
 simply.setText({
-  title: 'Simply Demo!',
+  title: 'Elizabeth!',
   body: 'This is a demo. Press buttons or tap the watch!',
 }, true);
 
