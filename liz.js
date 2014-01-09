@@ -9,5 +9,3 @@ if (e.button === ‘select’) {
 
 simply.begin();
 
-
-simply.begin();
