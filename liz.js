@@ -1,4 +1,7 @@
-simply.on('singleClick', function(e)){
+
+console.log('Simply.js demo!');
+
+simply.on('singleClick', function(e) {
 if (e.button === 'select') {
 		simply.setText({body: 'awesome'});
 } else if (e.button === 'up') {
